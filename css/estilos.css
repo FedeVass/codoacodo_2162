@@ -1,0 +1,165 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav, .navbar{
+    height: 120px;
+    min-height: 120px;
+    background-color: #353A40;
+}
+.fedeTextoGrande {
+        font-size: 150%;
+        color:white;
+        text-justify: center;
+}
+/* Style the button and place it in the middle of the container/image */
+#sobreFotos {
+    position: absolute;
+    top: 75%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    padding: 2px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: right;
+}
+
+.may{
+    text-align: center;
+    text-transform: uppercase;
+}
+h6{
+    text-align: center;
+}
+
+#charla{
+    text-decoration-style: dotted;
+    color: black;
+}
+
+.cambiarfondo {
+background-color: teal;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+label{
+    color: grey
+}
+
+#enviar{
+    background-color:#96be25;
+    border: 0ch;
+    width: 100%;
+}
+footer{
+    background-color:#1D4B65;
+    text-align:center;
+    text-justify: center;
+    min-height: 50px;
+    
+ 
+}
+#retorno{
+    white-space: pre-line;
+    text-decoration: none;
+    text-decoration-style: none;
+    color: white;
+    text-align: center;
+    
+
+}
+#contenedorFoot{
+    display:flex;
+    text-decoration: none;
+    text-decoration-style: none;
+    color: white;
+    align-items:stretch;
+    justify-content: center;
+  
+}
+footer.div.div.div.a:link {
+      text-decoration: none;
+      text-decoration-style: none;
+      color: white;
+      vertical-align: middle;
+      text-justify: center;
+      align-items: center;
+      
+}
+.link-light{
+     text-decoration: none;
+     text-decoration-style: none;
+     text-align: center;
+     text-justify: center;
+}
+.container.col{
+    text-justify: center;
+    white-space: pre-line;
+    display: flex;
+    padding-top: 10px;
+      position: absolute;
+      top:50%
+   }
+#formulario{
+    padding-bottom:200px
+}
+.card-horizontal, #tarjetaHorizontal{
+    display: flex;
+    flex: 1 1 auto;
+
+}
+.img-square-wrapper.col-6 {
+    width:50%;
+    
+}
+#tarjetaTexto{
+    background-color:#353A40;
+    color:white;
+}
+
+#honolulu{
+    width:100%;
+}
+.pie{
+    text-align: center;
+    vertical-align: middle;
+    text-justify: center;
+    align-items: center;
+    vertical-align: middle;
+    padding: 10px;
+    
+}
+
+
+
+#estudiante{
+    text-align: center;
+    border-color: blue;
+    border-radius: 0%;
+}
+#trainee {
+    text-align: center;
+    border-color: green;
+    border-radius: 0%;
+}
+#junior {
+    text-align: center;
+    border-color:orange;
+    border-radius: 0%;
+}
+
+#borrar, #resumen {
+    background-color: #96be25;
+    border: 0ch;
+    width: 100%;}
